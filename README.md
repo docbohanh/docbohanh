@@ -1,5 +1,10 @@
 ## Hi there, I'm Thành Lã 👋
-### Mobile Developer (iOS Swift, Flutter)
+### Mobile Developer 
+
+- [x] iOS Swift
+- [x] Flutter
+- [ ] Android Java, Kotlin
+- [ ] React Native
 
 - [https://thanhladev.github.io/](https://thanhladev.github.io/)
 
