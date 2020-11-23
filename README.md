@@ -1,5 +1,5 @@
 ## Hi there, I'm Thành Lã 👋
-### A clumsy mobile developer 
+### Mobile Developer (iOS Swift, Flutter)
 
 - [https://thanhladev.github.io/](https://thanhladev.github.io/)
 
