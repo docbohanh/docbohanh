@@ -3,8 +3,8 @@
 
 - [x] iOS Swift
 - [x] Flutter
+- [x] React Native
 - [ ] Android Java, Kotlin
-- [ ] React Native
 
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=true&show_icons=true" alt="docbohanh" /></p></div>
