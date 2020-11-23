@@ -6,8 +6,6 @@
 - [ ] Android Java, Kotlin
 - [ ] React Native
 
-- [https://thanhladev.github.io/](https://thanhladev.github.io/)
-
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=true&show_icons=true" alt="docbohanh" /></p></div>
 
