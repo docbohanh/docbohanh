@@ -19,4 +19,6 @@
 [twitter]: https://twitter.com/huuthanhla
 [linkedin]: https://www.linkedin.com/in/docbohanh/
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" /> </p>
+
+![Thành Lã](dino.gif)
