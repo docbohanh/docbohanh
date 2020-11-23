@@ -1,4 +1,4 @@
-## Hi there, I'm Thành Lã 👋
+## Hi there, I'm Lã 👋
 ### Mobile Developer 
 
 - [x] iOS Swift
