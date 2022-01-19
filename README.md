@@ -11,7 +11,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" /> </p>
 
-<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+[//]: # (<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
 
 ### 
 
