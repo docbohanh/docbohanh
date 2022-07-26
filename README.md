@@ -6,11 +6,11 @@
 <img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">
 
 
-- [x][x] iOS Swift (mostly use)
-- [x][x] Flutter
+- [x] * iOS Swift (mostly use)
+- [x] * Flutter
 - [x] React Native
 - [x] Android Java, Kotlin
-- [x][x] PL/SQL (Oracle)
+- [x] * PL/SQL (Oracle)
 
 <p> <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" /> </p>
 
