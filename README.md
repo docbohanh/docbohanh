@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat">   
   <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> 
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> 
-  <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat"> 
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> 
   <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" />
 </div>
 <br>
