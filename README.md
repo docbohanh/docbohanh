@@ -7,7 +7,7 @@
 
 <div style="clear:both; width: 100%;"> 
   <img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Flutter-222222.svg?logo=flutter&style=flat"> 
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white"> 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/Android-0000FF.svg?logo=android&style=flat">   
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
