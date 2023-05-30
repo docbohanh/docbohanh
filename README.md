@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> 
   <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" />
 </div>
-<br>
 
 ### Mostly used:
 - [x] iOS Swift * 
