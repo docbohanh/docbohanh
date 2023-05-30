@@ -1,7 +1,7 @@
 
 [//]: ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
-![dino.gif](https://github.com/docbohanh/docbohanh/blob/2dc2ca1ee54e513153fee475f30cd6ea3749fb8d/dino.gif)
+![143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
 <img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">
 
