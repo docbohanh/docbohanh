@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> 
   <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" />
 </div>
-
+<img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">
 ### Mostly used:
 - [x] iOS Swift * 
 - [x] Flutter * 
 - [x] PL/SQL (Oracle) *
 
-<img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">
+
 
 [//]: # (<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
 
