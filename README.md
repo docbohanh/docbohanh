@@ -5,12 +5,27 @@
 
 <img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">
 
+<div style="clear:both; width: 100%;"> 
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Flutter-222222.svg?logo=flutter&style=flat"> 
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Android-0000FF.svg?logo=android&style=flat">   
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
+  <img src="https://img.shields.io/badge/HTML5-222222.svg?logo=html5&style=flat">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&style=flat">
+  <img src="https://img.shields.io/badge/javascript-3577c4.svg?logo=javascript&style=flat">   
+  <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat"> 
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry%20Pi&style=flat"> 
+  <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat"> 
+</div>
+<br>
+
 
 - [x] iOS Swift * 
 - [x] Flutter * 
+- [x] PL/SQL (Oracle) *
 - [x] React Native
 - [x] Android Java, Kotlin
-- [x] PL/SQL (Oracle) *
 
 <p> <img src="https://komarev.com/ghpvc/?username=docbohanh&label=Profile%20views&color=0e75b6&style=flat" alt="docbohanh" /> </p>
 
