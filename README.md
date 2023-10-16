@@ -36,6 +36,4 @@
     
   </a>
 </div>
-[//]: # (<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=docbohanh&theme=material&radius=16" />)
-
 
