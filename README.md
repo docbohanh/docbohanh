@@ -33,7 +33,7 @@
   <a href="https://github.com/docbohanh">
     <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />
     <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/languages.svg" />
-    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=docbohanh&theme=material&radius=16" />
+    [//]: # (<img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=docbohanh&theme=material&radius=16" />)
   </a>
 </div>
 
