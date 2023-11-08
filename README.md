@@ -31,7 +31,8 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <a href="https://github.com/docbohanh">    
+  <a href="https://github.com/docbohanh">
+    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />
     <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/languages.svg" />    
   </a>
 </div>
