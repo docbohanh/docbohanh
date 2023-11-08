@@ -27,11 +27,11 @@
 - [x] PL/SQL (Oracle) *
 
 [//]: # (<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
+[//]: # (<img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center">
-  <a href="https://github.com/docbohanh">
-    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />
+  <a href="https://github.com/docbohanh">    
     <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/languages.svg" />    
   </a>
 </div>
