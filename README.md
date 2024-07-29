@@ -21,23 +21,4 @@
 
 [//]: # (<img style="float: right" align="right" src="https://github-readme-stats.vercel.app/api?username=docbohanh&count_private=false&show_icons=true&hide_border=false">)
 
-### Mostly used:
-- [x] Flutter * 
-- [x] iOS Swift * 
-- [x] PL/SQL (Oracle) *
-
-[//]: # (<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
-[//]: # (<img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />)
-
----
-## ⚙️ &nbsp;My GitHub Analytics
-<div align="center">
-  <a href="https://github.com/docbohanh">
-    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />
-    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/languages.svg" />
-    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=docbohanh&theme=dracula&radius=10" />
-  </a>
-</div>
-
----
 
