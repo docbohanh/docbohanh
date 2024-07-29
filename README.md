@@ -29,5 +29,15 @@
 [//]: # (<a href="https://www.buymeacoffee.com/docbohanh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="41" width="174"></a>)
 [//]: # (<img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />)
 
+---
+## ⚙️ &nbsp;My GitHub Analytics
+<div align="center">
+  <a href="https://github.com/oanhdtm1982">
+    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/overview.svg" />
+    <img height="230em" src="https://github.com/docbohanh/github-stats-transparent/blob/output/generated/languages.svg" />
+    <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=docbohanh&theme=dracula&radius=16" />
+  </a>
+</div>
 
+---
 
